@@ -1,0 +1,82 @@
+  body {
+    background-color: #ecf0f8;
+    font-family: 'Open Sans', sans-serif;
+    color: #7d7d7d;
+  }
+
+  img {
+
+    background-color: white;
+    margin: 0 0 0 1rem;
+    border-radius: 1rem;
+	float: left
+  }
+  #subtitle{
+
+    margin: 0 2.5rem 6rem 2.5rem;
+  }
+  h3 {
+    float: left;
+    display: inline;
+  }
+  #container{
+    padding: 2.5rem;
+    background-color: white;
+    margin: 2rem;
+    border-radius: 1rem;
+  }
+
+table{
+  border-collapse: collapse;
+  width: 100%;
+  margin-bottom: 1rem;
+  border-radius: 0;
+  display: table;
+  border-spacing: 2px;
+
+}
+
+  th, td{
+    text-align: left;
+    padding-left: 1rem;
+  }
+
+  .aplicativo{
+    margin: 1rem;
+    padding: 1rem;
+  }
+
+  .servicio{
+    margin: 1rem;
+    padding: 1rem;
+  }
+
+  .agregado{
+    color: grey;
+}
+
+.text-right{
+  padding: 3rem;
+  background-color: white;
+  margin: 1rem 1rem 0 1rem;
+  border-radius: 1rem;
+}
+
+.text-center{
+  text-align: center;
+   font-size: 1.5rem;
+   margin:1rem 0;
+
+}
+
+
+#explicativo{
+  margin: 0 5.5rem 0 5.5rem;
+}
+
+#subtitle a{
+  float: right;
+  padding: 1rem;
+  align: right;
+  display: inline;
+}

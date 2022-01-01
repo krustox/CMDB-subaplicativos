@@ -1,0 +1,138 @@
+  body {
+    background-color: #ecf0f8;
+    font-family: 'Open Sans', sans-serif;
+    color: #7d7d7d;
+  }
+
+  img {
+
+    background-color: white;
+    margin: 0 0 0 1rem;
+    border-radius: 1rem;
+	float: left
+  }
+  #subtitle{
+
+    margin: 0 2.5rem 6rem 2.5rem;
+  }
+  h3 {
+    float: left;
+    display: inline;
+  }
+  #container{
+    padding: 2.5rem;
+    background-color: white;
+    margin: 2rem;
+    border-radius: 1rem;
+  }
+  th, td{
+    text-align: left;
+    padding-left: 1rem;
+  }
+
+  .aplicativo{
+    margin: 1rem;
+    padding: 1rem;
+  }
+
+  .servicio{
+    margin: 1rem;
+    padding: 1rem;
+  }
+
+  .agregado{
+    color: grey;
+}
+
+.text-right{
+  padding: 3rem;
+  background-color: white;
+  margin: 1rem 1rem 0 1rem;
+  border-radius: 1rem;
+}
+
+.text-center{
+  text-align: center;
+   font-size: 1.5rem;
+   margin:1rem 0;
+
+}
+
+.grid-container{
+padding-top: 2rem;
+}
+
+.servicios{
+  padding: 2rem;
+}
+
+.canales{
+  padding: 2rem;
+}
+
+#explicativo{
+  margin: 0 5.5rem 0 5.5rem;
+}
+
+#subtitle a{
+  float: right;
+  padding: 1rem;
+  align: right;
+  display: inline;
+}
+
+#edit a{
+  padding: 1rem;
+  margin-left: 47%;
+}
+
+label{
+
+  display: inline;
+}
+
+.title{
+
+  font-weight: bold;
+}
+
+form{
+    margin: 1rem auto;
+    text-align: center;
+    border-radius: 10px;
+    border: 1px solid #666666;
+    width: 500px;
+}
+
+#inputb{
+  margin:1rem;
+}
+
+#formularios{
+  margin: 2rem;
+}
+
+input{
+  margin: 0 auto;
+  display: block;
+  width: 80%;
+  text-align: center;
+}
+
+#RA{
+  margin: 1rem auto;
+  display: block;
+  width: 80%;
+  text-align: center;
+}
+
+#link{
+  text-decoration: underline;
+  font-size: 17px;
+}
+
+#error{
+  font-style: italic;
+  text-decoration: underline;
+  color: red;
+}
